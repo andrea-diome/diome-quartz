@@ -1,0 +1,20 @@
+## Metadata
+* URL: [https://www.currentaffairs.org/2023/10/why-we-need-utopias/](https://www.currentaffairs.org/2023/10/why-we-need-utopias/)
+* Author: Current Affairs
+* Publisher: www.currentaffairs.org
+* Published Date: 2023-10-04
+* Tags: #Future_Thinking
+
+## Highlights
+* If you’re talking about universal health care, that’s totally utopian, but immortality is totally feasible. It’s a really weird double standard that tech bros and billionaires and Saudi princes get to dream up cities in the desert or like this new plan for a utopian city in Solano County in Northern California, but the rest of us are just going to be stuck with a housing crisis and homelessness.
+* if you look at our popular culture, things like The Hunger Games, Squid Game, or Black Mirror, all sorts of shows that show us that the future will be this bleak, disgusting, awful place.
+* We need to decentralize and claim utopia for ourselves, understanding at the same time that utopia is always a horizon.
+* we consider social movements to be these very kind of gritty, grounded things that are pushing for very particular policies—the difficult work of organizing. But he said that what we often miss about social movements is that they all have this incredible, imaginative utopianism in them that is often the animating spirit behind movements.
+* There’s a way in which, within all social movements, within all attempts to create a better future, or to prevent a really awful future from coming in the case of the climate crisis, there is a core group of people—I sometimes like to call them the utopian 1%—who are just out there. They’re not just dreaming of a better future, they’re actually creating that future in the present, what anarchists sometimes call prefigurative politics: they’re living as if the future that they want to see is already here.
+* And for me, I want to think about, what is it about the family and our relations with each other in our domestic private lives that is also playing a role in upholding this system? Are there ways, if we start to change our domestic and private relations with each other, that will ultimately, down the road, impact the system itself?
+* And then there are just things like people who get a house together that are not related to each other, but they live together, like “mommunes”: a bunch of single moms who will buy a house and raise their kids together.
+* to quote David Brooks, “the nuclear family was a mistake.” There is a way in which this model of child-rearing is really problematic because romantic relationships are fragile, and it turns out that child-rearing actually makes them even more fragile. And so, if that primary romantic relationship breaks up, then the children are kind of the collateral damage of the breaking of that relationship.
+* nuclear families guarantee inequality because they guarantee that how you do in life is going to depend on your luck in the parent lottery.
+* the nuclear family as it is currently instantiated in most Western countries is a primary node, if not the primary node, in a capitalist society that allows for the intergenerational transfer of wealth and privilege, usually from fathers to their legitimate sons. Now, this predates capitalism. This is how it worked in feudalism, and is actually how it worked in antiquity during slavery.
+* the nuclear family creates a situation in which other nuclear families are not your friends, they’re your competitors. You’re all competing for scarce resources—educational attention, spots in universities, first violin in whatever orchestra your kid is playing.
+* The Russian theorist Alexandra Kollontai called this “comradely love,” and she believed that if we lived in a society with many more lateral ties with people who supported us emotionally and were basically there for us when we needed them, and we were there for them, so many of the problems that we face in the present day could be eradicated just by increasing our social relationships with others.

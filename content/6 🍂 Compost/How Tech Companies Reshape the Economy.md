@@ -1,0 +1,14 @@
+## Metadata
+* URL: [https://www.disconnect.blog/p/how-tech-companies-reshape-the-economy](https://www.disconnect.blog/p/how-tech-companies-reshape-the-economy)
+* Author: Paris Marx
+* Publisher: www.disconnect.blog
+* Published Date: 2023-03-10
+* Tags: #Big_Tech
+
+## Highlights
+* Time and again, interviewees described how succeeding on Amazon required them to behave like miniature Amazons, and to discipline their employees or contractors to do the same. The key difference, of course, is that they must do so without access to the capital that Amazon commands, without insight into much of Amazon’s data, or the ability to make any claim should they suffer harms from Amazon itself or from other third parties.
+* On the one hand, my interviewees were suggesting that Amazon’s marketplace itself was a frontier. These analogies cast the speaker as a conquistador, homesteader, or 49er, racing competitors from around the world to claim their piece of the terrain that Amazon had made it possible to seize from brick-and-mortar retailers. Yet, if sellers were imagining Amazon as a territory, they frequently spoke of its state-like authority, too.
+* Amazon can not only use the presence of so many small businesses on its platform for PR and lobbying purposes, but also to get them to advocate for policies that ultimately benefit Amazon’s further expansion while appearing to be about supporting small business.
+* It’s not as easy to say that Amazon is simply helping small businesses, as its supporters would argue, or that it’s destroying small business, as is common in anti-monopoly conversations. Weigel explains that the real concern of sellers is Amazon’s bad governance of its platform, which can have serious consequences for them when counterfeit products aren’t removed quickly enough or automated actions are taken that they can’t quickly resolve.
+* While the companies act as though there’s ample opportunity, the reality is that the creator economy — especially as these platforms make it easy to operate at a global scale — is a superstar economy where a small number of people still capture the lion’s share of the revenue. Many people will never make a living off the work they put into the platforms, while the companies will still receive the benefit of their labor. But that also creates a pressure to keep searching for small advantages over competitors, such as adopting new technologies that erode collective power but may have a short-term benefit to the individual.
+* In the broader social media space, including platforms like YouTube, “creators” are constantly trying to understand the algorithm and the dynamics of the platform to maximize their potential reach, whether that means restructuring the format and length of their content or even focusing on particular topics that they know will do well.

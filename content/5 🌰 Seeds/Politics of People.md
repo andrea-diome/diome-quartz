@@ -1,0 +1,1 @@
+An important part of politics, especially democracy, is HOW people form their preferences, not just what those preferences are. This is particularly important in AI regulation and related to moral ecosystems.

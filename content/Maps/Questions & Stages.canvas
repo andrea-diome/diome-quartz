@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"d9c6ccd9a44cfde3","type":"file","file":"Images/Transformation Space Sketch.jpg","x":-500,"y":160,"width":400,"height":300},
+		{"id":"d50ae770d2ad962b","type":"text","text":"# Key Questions","x":40,"y":120,"width":250,"height":60},
+		{"id":"43d57db719b9d183","type":"text","text":"# Indigenous","x":540,"y":120,"width":250,"height":60},
+		{"id":"c4db9eb1221a7784","type":"text","text":"# Mechanistic","x":1040,"y":120,"width":250,"height":60},
+		{"id":"85a8ab40872718c0","type":"text","text":"# Pluralistic","x":1500,"y":120,"width":250,"height":60},
+		{"id":"e01766a59b5b70d2","type":"text","text":"**What are our tools of self definition in relationship to others and the material world?**\n**How does our definition of ourselves guide our actions towards the world?**","x":40,"y":244,"width":361,"height":256},
+		{"id":"2020ae068f8082cd","type":"text","text":"- Social media platforms/digital tools driven by profit\n- Meme culture & trends\n- Mass media\n- Education systems designed to produce factory workers or high-touch tutoring systems\n- Adaptation to the needs of the market","x":1040,"y":244,"width":381,"height":256},
+		{"id":"dfeabf25d2f39296","type":"text","text":"- Driven by place-based reciprocal relationships with ecosystem participants, human & non-human, living & non-living\n- Stories about nature","x":540,"y":244,"width":381,"height":256},
+		{"id":"4e61af08b57eb7cc","type":"text","text":"- How might we create communication tools driven by community & place?\n- How might we create education/learning environments designed for agency?\n- How might we build communal knowledge rather than just produce data?\n- How might we harness memes to drive culture change towards life-enhancing goals?","x":1500,"y":244,"width":381,"height":296},
+		{"id":"6ee322a4657898a0","type":"text","text":"## Provocations","x":1500,"y":180,"width":250,"height":60},
+		{"id":"86c385087e326bc7","type":"text","text":"## Ideas/Experiments","x":1940,"y":180,"width":297,"height":60},
+		{"id":"a96e4c68099f8926","type":"text","text":"- Relational media\n- AI-driven tailored education\n- Tools like Obsidian/Memex etc the whole knowledge-building ecosystem \n- Noosphere\n- Reconnection to place, local communities & communities of interest (digital-local) through new social medias\n- Tech as a tool to reconnect with nature rather than separate from","x":1940,"y":244,"width":420,"height":296},
+		{"id":"e1429ebfe5396028","x":40,"y":640,"width":361,"height":120,"type":"text","text":"**How do we guide our beliefs and actions?**\n**How do we build the tools we use to act on the world?**"},
+		{"id":"8bb2f5776fb6966d","x":36,"y":800,"width":365,"height":175,"type":"text","text":"**How do we define metrics that reflect life?**\n**How do we measure beyond markets**?\n**How do we include all voices, human & more-than human?**"},
+		{"id":"0c4b98f36c29e07c","x":40,"y":1040,"width":361,"height":220,"type":"text","text":"**How do we create narratives/maps?**\n**How do we know what is true?**\n**Who has the right & responsibility to make decide what is true?**\n**How do we turn data into meaning & maps?**\n**How do we make the right decisions?**"},
+		{"id":"72440897dd047fb4","x":40,"y":1320,"width":361,"height":140,"type":"text","text":"**How do know what should be made and for who and how? \nHow do we ensure everyone's needs are addressed?**"},
+		{"id":"cb0ecf3e50c8db19","x":40,"y":-320,"width":380,"height":200,"type":"text","text":"Audience- people who make digital products, builders, digital entrepreneurs. What is my role in this transition? What are the most high-value, high-leverage things I can do? How can I think differently about the impact my work has on society? How does it fit into the bigger picture ie. Jackie & S(?)"}
+	],
+	"edges":[]
+}

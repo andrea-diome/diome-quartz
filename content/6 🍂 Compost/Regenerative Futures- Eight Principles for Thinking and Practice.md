@@ -1,0 +1,17 @@
+## Metadata
+* URL: [https://jfsdigital.org/articles-and-essays/2023-2/vol-28-no-1-september-2023/regenerative-futures-eight-principles-for-thinking-and-practice/](https://jfsdigital.org/articles-and-essays/2023-2/vol-28-no-1-september-2023/regenerative-futures-eight-principles-for-thinking-and-practice/)
+* Publisher: jfsdigital.org
+* Published Date: 2023-02-11
+* Tags: #Earth_Regeneration, #Future_Thinking
+
+## Highlights
+* Table 1: Key features of regenerative approaches GoalsOffer net positive, enduring contribution and valueBuild social and natural capital Achieve co-evolutionary and patterned relationships between systems Roots and informing backgroundEcological scienceLiving systems theoryWhole systems theory Views of realitySet of ecological “thruths” about the world that determine the meaning of sustainabilityWeb of life categorised by nested systems and energy flows Views of timeConsiders social and ecological factors across temporal scalesFeaturesCollaborative, conscious process to discover social-ecological story of placeEmbraces breadth of knowledge sources Primacy of process over outcomes MeasurementRedress of previously accumulated ecological debtFocus on impact rather than output Emerging discussion on the definition of “net positive” and what this means for measurement and evaluation Emphasis on process rather than performance outcomes
+* Principle 1: Regenerative practice starts with a story of place that considers nested human and natural systems and incorporates a layered understanding of reality and time. Principle 2: A story of place can be deepened by examining the systems, worldviews and myth/metaphors that support them.
+* Throughout my own doctoral research, I utilised CLA to analyse the outputs of semi-structured interviews with both professionals and community members in urban precincts that had regenerative aspirations. Moving down the levels of analysis to truly examine the worldviews and metaphors that underpinned both their perspectives and their practice provided considerable depth of insight. Sharing this analysis with the interviewees to then facilitate the process of moving back up the layers of CLA provided a framework for particularly rich conversations, uncovering what was previously often unconscious or at least unacknowledged.
+* Principle 3: Definitions of regeneration are place specific and goals and success measures should be collaboratively developed.
+* Principle 4: Creating a shared image of and metaphor for a community’s desired future is an important early step Principle 5: Futures methods including CLA are important to examine and deconstruct this image, identifying assumptions and used futures
+* Principle 6: Backward mapping from a desired regenerative future is important, but his map should by dynamic, responsive and evolve with the systems in which a community is situated.
+* Vanessa Machado De Oliveira (2021) writes of four denials societies face; the denial of systemic complicity in harm, the denial of the limits of the planet, the denial of entanglement and the denial of the magnitude and complexity of problems.
+* The underpinning metaphor utilised by communities to describe their image of a regenerative future must be continually revisited to ensure that it is not stifling, rather than facilitating positive, transformative change.
+* Principle 7: Co-evolution of human and natural systems is the cornerstone of regenerative thinking and practice.
+* Principle 8: A commitment to internal, self-regeneration should be continuously cultivated.

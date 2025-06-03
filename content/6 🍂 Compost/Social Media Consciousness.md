@@ -1,0 +1,26 @@
+## Metadata
+* URL: [https://www.ribbonfarm.com/2018/09/07/social-media-consciousness/](https://www.ribbonfarm.com/2018/09/07/social-media-consciousness/)
+* Author: Sarah Perry
+* Publisher: Ribbon Farm
+* Published Date: 2018-09-07
+* Note: Compares narrative safe space created in movies to the "wilderness" of social media– without discussing that cooperation is one of the most successful strategies in nature. Need to be clothed, shielded– but what about collective rather than individual shields? Relationship to cozy web & Jenny Odell's ways that culture changes in concentric circles.
+* Tags: #Conciousness, #Identity, #Social_Media
+
+## Highlights
+* one of the most popular causal stories is that social media has caused increased mental illness, such as anxiety and depression.
+* However, when using standard diagnostic criteria, there has been no change in rates of depression and anxiety between 1990 and 2010, a time period that would presumably capture the supposedly “profound effects” of internet and social media use. (See, e.g., “Challenging the myth of an “epidemic” of common mental disorders: Trends in the global prevalence of anxiety and depression between 1990 and 2010.,” Baxter et al, 2014).
+* Looking at facets of life that changed dramatically over short periods during the 20th century – marriage, divorce, fertility, urbanization, wealth, even suicide (around the financial panic of 1908 and the Great Depression) – it’s difficult to see a mark in the 21st century from social media.
+* Misunderstandings that were common and easy to make before the past decade or so: 1. Cyberspace is disembodied. 2. Cyberspace is anonymous. 3. Cyberspace is safe and free from consequences.
+* Does the body go with it into cyberspace? In the early days of the internet, people were interested in bringing representative analogues of the actual human form into cyberspace.
+* However, as social media, the pseudo-embodied approach, in which an analogue of the body travels through three-dimensional space and expresses moods, has fallen out of fashion.
+* What I think is this: your body in cyberspace is just your regular body. You don’t get a different body. Your actual body (of which the eyes and fingers and amygdala are subsystems) gets a grip on the world of cyberspace through the interface of rectangle and software, and presses up against the bodies of others through this medium.
+* Perhaps this understanding is impoverished in some ways compared to the understanding that would be obtained by someone in the same room, but I think it is enriched in other ways. For instance, I would have to be very lucky to meet a person in meatspace whose thoughts I found as interesting as those in my Twitter feed, and if I did get that lucky, it would take us a long time to work through our epistemic distance.
+* In person, we wear clothes rather than go around naked; there are aspects of the body that it’s nice to be able to bracket and leave out of the interaction, such as the appearance of one’s genitals, buttocks, and breasts, or the state of one’s hair (my hair is quite messy, right now). I think it’s possible for the entire appearance of the body to be bracketed, as with clothing. The internet is a type of garment.
+* So cyberspace isn’t disembodied; the body is merely revealed and clothed in a different way, specific to the social setting. (Just as social settings vary in meatspace, they vary in cyberspace.) And, as is obvious from the telephone example, cyberspace is far from anonymous. Even when the name of the cyberspace entity doesn’t correspond to one’s government name, the identity can still be perfectly real, with praise or slights to the online identity felt as deeply (if not more) as those toward one’s government identity.
+* As we moderns have been made aware during various spectacles, it is not necessary to be in the same room with someone in order to be hurt or humiliated by them. An online identity can become so real and so occupied that it is vulnerable to harm from purely online sources;
+* In many senses, social media consciousness is more of a direct involvement with reality than movie consciousness.
+* narrative worlds are close in time – they have a beginning and an end.
+* A city tree is usually tended so that it looks like the idea of a tree: symmetrical, lush, dead parts removed, etc. The dead parts of city plants get removed, because they are considered unattractive, and because they pose a fire hazard.
+* wild plants don’t self-prune, and you end up with weird-looking asymmetrical monstrosities that appear half dead and half alive, instead of tidy, symmetrical “trees.” Everybody is simultaneously trying to use everything else, including each other.
+* Social media consciousness, on the other hand, foregrounds a wild, unsafe, risky world in which everything is eating everything else constantly, and everything changes from minute to minute.
+* on social media, one sentence-long quotation might be popularized, parodied, associated with images, associated with past texts, elaborated on, mocked, and made obsolete within hours. Not just texts, but whole identities, are vulnerable to this process. Social media requires the shielding of the body (the garment role), precisely because it is so profoundly unsafe.

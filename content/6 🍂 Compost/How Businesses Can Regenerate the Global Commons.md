@@ -1,0 +1,13 @@
+## Metadata
+* URL: [https://ssir.org/articles/entry/how_businesses_can_regenerate_the_global_commons?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now](https://ssir.org/articles/entry/how_businesses_can_regenerate_the_global_commons?utm_source=Enews&utm_medium=Email&utm_campaign=SSIR_Now)
+* Author: Jonathan F.P.
+* Publisher: ssir.org
+* Tags: #Economy_Business_&_Finance, #Regenerative_Business
+
+## Highlights
+* The Lyme Timber Company buys forests at risk of being clear cut—a process that degrades soil, reduces biodiversity, increases climate risks, and creates boom-bust local economies—and places conservation easements on them so that it can sustainably and responsibly manage them.
+* In 1994, entrepreneur Ray Anderson proposed that Interface, the US flooring company he founded, become one of the world’s first environmentally sustainable and restorative companies.
+* Aerofarms, for example, is an urban vertical farming company whose mission is “to grow the best plants possible for the betterment of humanity.” It develops its farms in low-income communities that need jobs and access to healthy food, and by growing food in controlled environments, it uses 95 percent less water than typical farms and zero pesticides. Its processes integrate plant genetics, food safety, and nutrition with data science to provide an extraordinary level of feedback that, in turn, increases food quality and nutrition, and reduces costs. To date, it has grown more than 550 varieties of food, and it can produce food 365 days a year.
+* A regenerative company views profit as a resource to support its purpose, invest in research, participate in networks, develop new products, enhance its processes, build reserves to increase its resilience, invest in its people, and support employee and community well-being.
+* One interesting, potential ownership form to serve the commons is the “purpose trust,” which holds fiduciary responsibility for a business’s purpose. In 2020, Berrett-Koehler (BK), a mission-focused business publisher, transformed its founder’s sole ownership into a multistakeholder purpose trust. Today, the founder, a mission-related nonprofit, an author’s co-operative, an employee stock ownership plan, and others own interests in the company. The purpose trust ensures that the content BK publishes will honor the company’s mission and that BK will recycle its profits to support the company, as well as the authors and supply chain partners in its ecosystem.
+* A trust also owns the global engineering firm Arup. Its profits are allocated to serving three goals: improving the firm’s infrastructure, advancing research that improves Arup’s practice and addresses social issues, and profit-sharing with all employees.

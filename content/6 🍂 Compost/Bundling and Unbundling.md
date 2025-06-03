@@ -1,0 +1,21 @@
+## Metadata
+* URL: [https://reallifemag.com/bundling-and-unbundling/](https://reallifemag.com/bundling-and-unbundling/)
+* Author: Alexandra Kimball
+* Publisher: reallifemag.com
+* Published Date: 2019-10-24
+* Tags: #Big_Tech, #Business_Models
+
+## Highlights
+* many ventures seek profit by repackaging existing goods and services as revenue streams they can control, with technology frequently serving as the mechanism.
+* Inefficient bundles (newspapers, cable TV, shopping malls) are disaggregated by companies that serve consumers better by letting them choose the features they want as stand-alone products, unencumbered of their former baggage. Why pay for a package of thousands of unwatched cable television channels, when you can pay for only the ones you watch? Who wants to subsidize journalism when all you care about is sports scores?
+* the startups working to streamline this process can go much further, disaggregating meal preparation, service, and the food’s ultimate consumption altogether with delivery apps and “ghost kitchens.”
+* Eating cooled-off restaurant food alone at home in front of a screen is a privilege for which we should pay more,
+* But who benefits most from this convenience? More than the people ordering and eating the food, it’s the companies doing the unbundling, who shift labor formerly done by employees onto gig workers or the customers themselves. As the restaurant fragments, the home itself becomes a new sort of bundle, internalizing pieces of activities that previously happened in public.
+* The rationale of convenience helps disguise the fact that many unbundling efforts offer no particular benefit to end users and proceed according to a purely exploitative logic.
+* In this, unbundling resembles the machinations of the private equity industry, which, as Matt Stoller writes, “transforms corporations from institutions that house people and capital for the purpose of production into extractive institutions designed solely to shift cash to owners and leave the rest behind as trash.” The ostensible purpose of private equity is to buy poorly performing companies and restructure them into better versions of themselves. In practice, however, private equity also targets healthy companies for acquisition, frequently financing buyouts with debt that the purchased company will end up owing, and then stripping out the company’s most valuable assets or repositioning them to maximize financial returns for the buying firm.
+* As if the messy analog world was code itself, unbundling frames each desirable feature of the world as an independent module that can operate anywhere without a loss of performance quality.
+* A newspaper’s localized audience, for example, previously developed a shared sense of identity as a community by reading the same publication every day. But that particular collectivity could only arise from the audience assembled by the bundle. “Community” can’t be broken out as an isolated independent “feature” to be consumed on demand by individual consumers.
+* When we unbundle a physical retail store, for example, the pleasant nuances of shopping in person and interacting with other people falls through the cracks. Similarly, streaming music, for all its benefits, deprives us of certain niceties that the album format made possible: the slowly earned appreciation for their more challenging songs and the subtle continuity that links them all together.
+* The tech industry’s unbundling has actually paved the way for invidious forms of rebundling. The apps and services that replaced the newspaper are now bundled on iPhone home screens or within social media platforms, where they are combined with new things that no consumer asked for: advertising, data mining, and manipulative interfaces.
+* In such cases, a bundle becomes less a bargain than a form of coercion, locking users into arrangements that are harder to escape than what they replaced.
+* Stoller, again, argues that the true business model of WeWork has been “to take inputs, combine them into products worth less than their cost, and plug up the deficit through the capital markets in hopes of acquiring market power later or of just self-dealing so the losses are placed onto someone else.”

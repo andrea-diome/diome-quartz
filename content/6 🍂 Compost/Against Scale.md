@@ -1,0 +1,30 @@
+## Metadata
+* URL: [https://www.growbyginkgo.com/2023/05/01/against-scale/](https://www.growbyginkgo.com/2023/05/01/against-scale/)
+* Author: Claire L. Evans
+* Publisher: www.growbyginkgo.com
+* Published Date: 2023-05-01
+* Tags: #Endless_Growth
+
+## Highlights
+* Here is the difference between growth and scalability: on one hand, an unruly seasonal explosion of flowers, on the other, the algorithmically-boosted presentation of those same flowers as a product, a highly-reproducible image driving traffic both online and onto California State Route 14. In the Antelope Valley and in my back garden, wildflowers adapt to the season. They map the sun onto the land. They come and go. Online, the poppy is detached from place. It has become a sea of orange to monetize. The monolithic ubiquity of the poppy field as an image is inversely correlated to the ephemeral poppy itself, which wilts as soon as it is picked.
+* “Scalability is not an ordinary feature of nature,” writes the anthropologist Anna Lowenhaupt Tsing in The Mushroom at the End of the World,
+* Tsing’s mushrooms thrive in a mutualistic relationship with forest trees, foraging nutrients from the soil in exchange for carbohydrates. These encounters are a catalyst for diversity — and, through them, growth is a process of entanglement and mutual transformation. As Tsing observes in her work, nothing living expands without changing in some way.
+* A scalable business can be easily reproduced, because its internal mechanisms maintain their efficiency, and their profitability, regardless of context:
+* In the name of progress, Tsing observes, we call such expansion “growth,” as though we were speaking of something alive.
+* Ursula Franklin makes a similar observation in her book The Real World of Technology, contrasting “growth models,” systems in which things develop naturally to an appropriate size and scale, with “production models,” systems in which things are produced under controlled, predictable parameters.
+* Tsing cites European sugarcane plantations as “early and influential icons” of scalability; by razing local land and importing cloned plants and enslaved Africans, colonial powers excised all social and ecological relations from the process of farming cane.
+* This model — alienated labor producing commodities without context — influenced early industrialization,
+* Indeed, it’s only by shunting away responsibility for externalities like waste, the physical and mental health of workers, or the depletion of nonrenewable resources, and by stripping context from all its component parts that an enterprise can be made scalable to begin with.
+* “scalability spreads — and yet it is constantly abandoned, leaving ruins,”
+* Scalability is an illusion deemed essential for the maintenance of our contemporary political economy.
+* Even the products of fundamentally nonscalable processes, like wildflowers or foraged Matsutake mushrooms, are eventually sorted, weighed, tallied, and sold in a global marketplace, as objects or images of value.
+* It’s tempting to zoom from Google Earth’s planetary view down to the bare pixel and believe what the journey tells us: that the real world fits in our pockets, and on our terms.
+* Pixels only ever lend the illusion, from a distance, of blending into one another to create a coherent image. But even though biologists (and synthetic biologists) often speak of the “building blocks of life,” real life does not work that way. It’s not built, Minecraft style, from pixelated protoplasm; it’s a process of dynamic and transformative interrelations, which are porous down to the atom.
+* Observed under magnification, at the level of chemical interactions, the place where two materials meet is never a hard line, but rather “a material space where the properties of the two bodies mix with one another.” Nanotechnologists do not talk about surfaces, she said. Instead, they talk about interfaces, which are sites of encounter. In these interfaces, materials come together and arrange themselves into new, hybrid states of matter.
+* In living and chemical systems, atoms, molecules, and particles regularly organize themselves into complex structures from within. From a jumble of chemical ingredients, cells split, plants grow, and crystals emerge in their perfect symmetry. Understanding and harnessing bottom-up self-assembly has become a central pursuit of modern nanotechnology, indicating an approach to technology, science, and even industrial production that emulates rather than banishes natural processes of growth.
+* Iconoclastic biologists, like Tufts University’s Michael Levin, are equally fascinated by the processes by which living things come together — the morphogenesis that transforms matter into complex living systems that can self-repair, adapt, and even think. They’re joined by those rogue computer scientists crafting “unconventional computing” systems from slime mold and fungal mycelia; by roboticists working with soft, sensitive, and even living materials; by Artificial Life researchers who seek to emulate evolutionary and emergent behaviors in silico; and by molecular “pharmers” working to produce useful pharmaceutical and industrial compounds in plants like maize, rice, and barley.
+* could synthetic biology grow, rather than scale, benefiting the communities and ecosystems it impacts without the ruinous damage of its industrial predecessors?
+* Nature takes a collaborative approach to survival; in industry, a focus on product, and the product’s uniqueness as property, tends to prevent the potentially fruitful cross-contamination of ideas.
+* In synthetic biology, the way forward may not be a matter of producing at scale but rather inquiring at scale, changing the volume at which we converse with the living world before deciding what to assemble, rather than mine, maul, or murder.
+* microbes are people too,
+* I am a tumult of cells and bacteria; I am a speck of dust in the cosmos; I am 5’9” and walking along the trail towards a glowing orange poppy field, all at once.

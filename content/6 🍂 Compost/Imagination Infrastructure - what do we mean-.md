@@ -1,0 +1,17 @@
+## Metadata
+* URL: [https://www.emergingfuturesfund.com/blogs/imagination-infrastructure-what-do-we-mean](https://www.emergingfuturesfund.com/blogs/imagination-infrastructure-what-do-we-mean)
+* Author: Cassie Robinson
+* Publisher: www.emergingfuturesfund.com
+* Published Date: 2021-08-09
+* Tags: #Imagination_Infrastructure
+
+## Highlights
+* Imagination is thus a transformative practice, which has the capacity to cultivate and foster alternatives to social, political, cultural and economic conditions; it is a prerequisite for changing the world for the better.
+* Infrastructure, on the other hand has been defined by Brian Larkin as “material forms that allow for the possibility of exchange over space”.
+* It can even consist of people, who do the infrastructural work to move or exchange other things — as with the garbage labourers of Dakar, Senegal who are the focus of Rosalind Fredericks’ 2018 book Garbage Citizenship.
+* How can we build up an infrastructure, both physical and metaphysical, tangible and intangible, to enable the development, the practices and use of collective imagination? We’re particularly interested in how the collective works here — what it means for us to imagine together, how the grouping of intelligence progresses our ability to envisage and build different futures.
+* Sometimes, old imaginaries are bound up in the physical infrastructure of the world. Infrastructure, though typically imagined as mundane and inert, is anything but mere ‘stuff’ — it is political, performative, relational and co-constitutive. Though in theory designed to ‘take care’ of us, infrastructure and the imaginaries it invokes and enacts can just as easily do violence: it can encode traditional heterosexual relationships, or the male body, or White skin colour, or nuclear, blood-related family structures as the default, and can provide profoundly unequal opportunities for fulfilling basic bodily needs
+* ‘To infrastructure’ is to create “socio-technical resources that intentionally enable[s] adoption and appropriation beyond the initial scope of the design.”
+* “[T]he act of infrastructuring changes what it is to be a road…or an ecology. Infrastructures… stand between people and technology and nature and in doing so reconfigure each simultaneously” in a process of “perpetual refiguring”. Infrastructure as playground, not scaffold.
+* The way the future is imagined is inherently selective, because the future is inherently unknowable. Anything could happen, so the things we choose to imagine must necessarily be a subset of what is possible. Given this fact, it is important to carefully consider who gets to be involved in the act of imagination, and which ontological and epistemological vantage points are permitted and emphasised in the process. How should the unofficial imaginations of everyday people, of marginalised people, be legitimised and given value through imagination infrastructure?
+* In particular, imagination is often better-suited to dealing with questions of the future than other, more concrete and deterministic approaches, such as forecasting and prediction, as it enables explorations to be more open-ended, allowing for questions to be left open, rather than mandating answers. In this way, imagination infrastructure can inject a much-needed dose of humility into policy-making and collective action, a reminder of “both the limits of scientific knowledge and about when to stop turning to science to solve problems.”

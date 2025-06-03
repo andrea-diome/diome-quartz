@@ -1,0 +1,19 @@
+## Metadata
+* URL: [https://www.shareable.net/the-spanish-civil-war-lessons-in-economic-democracy/](https://www.shareable.net/the-spanish-civil-war-lessons-in-economic-democracy/)
+* Author: Daniel Wortel-London
+* Publisher: www.shareable.net
+* Published Date: 2023-10-24
+* Tags: #Democracy, #Post-Capitalism
+
+## Highlights
+* Altogether, approximately 18,000 enterprises – nearly all industries in Catalonia and 1700 villages across the country – were collectivized between 1936 and 1937. For a brief moment, ordinary people – not capitalists or bureaucrats – were in control of the economy.
+* Spain, like Russia before its 1917 Revolution, was a highly agricultural society with deep traditions of communal land ownership. Where the Russian Bolsheviks sought to uproot these traditions in favor of industrialization and centralization, Spanish radicals – influenced heavily by anarchists like Peter Kropotkin and Mikhail Bakunin – sought to preserve and radicalize agrarian traditions and autonomy.
+* The key instrument of this radicalization was the Confederación Nacional del Trabajo (CNT), a federation of regional anarcho-syndicalist unions. Ever since its founding in 1910, members of the CNT – largely ordinary workers – had proselytized the cause of a decentralized and socialized economy across the country. Rather than impose a rigid theoretical and organizational framework on its members, the CNT allowed for a great deal of flexibility and experimentation within its ranks.
+* By combining an attentiveness to everyday struggles around wages and housing with a compelling vision of total transformation, the CNT was able to win a mass following by the time of Spain’s Civil War.
+* it emerged from decades worth of grassroots organizing, agitation, and mobilizing by committed activists.
+* After failing to depose their government in a coup, members of the right-wing Spanish bourgeoisie abandoned their properties en-masse across the country. Workers and peasants, mobilized by ancient communal traditions and modern institutions like the CNT, took possession of idle fields and factories.
+* Many of the nation’s new cooperatives – small and poorly financed — competed with one another in order to stay afloat. Workers and peasants refused to share supplies from their “own” collectives with their neighbors’ collectives. And, as the Fascists began their counter-attack, collectives struggled to raise their productivity in order to feed and defend the Republic. Many radicals, in keeping with their treasured principles of autonomy and voluntarism, looked to ad-hoc mutual aid as a means of solving these problems. Others looked to amalgamation as a means of coordinating the economy. In Barcelona, for example, the Single Barbers’ Union (Sindicato Único de Barberos) reduced their establishments from 1,100 to 235 in order to save costs and raise workers’ wages.
+* The most comprehensive effort to reconcile autonomy with coordination was through what many radicals called “socialization,” or federalized associations of independent collectives.
+* The most elaborate urban socialization was in Barcelona. Industrial councils made up of all firms within a particular economic sector, developed industry-wide guidelines and regulations. A General Economic Council (Consejos Generales de Economía), made up of delegates from all collectives in the city, provided city-wide economic strategies and assistance.
+* Barcelona’s Consejo, for example, decreed that 50% of all collectives’ profits should be deposited in a local bank, and be used to finance weaker firms or fund new ones. However many cooperatives responded by refusing to fully report their profits to the Consejo.
+* economic democracy will be built among flawed conditions and by flawed human beings. As such, it is necessary to ask difficult questions about how economic democracy will function in these unpropitious circumstances.

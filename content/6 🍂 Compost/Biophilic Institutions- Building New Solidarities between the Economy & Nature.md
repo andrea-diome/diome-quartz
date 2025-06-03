@@ -1,0 +1,32 @@
+## Metadata
+* URL: [https://www.amacad.org/publication/biophilic-institutions-building-new-solidarities-between-economy-nature](https://www.amacad.org/publication/biophilic-institutions-building-new-solidarities-between-economy-nature)
+* Author: Natasha Iskander
+* Publisher: www.amacad.org
+* Published Date: 2023-02-27
+* Tags: #Economy_Business_&_Finance, #Ecosystems_&_Commons, #Regenerative_Business
+
+## Highlights
+* institutional actions and actors must promote and defend practices that damage both the economy and nature, making those outcomes seem inevitable and necessary. Yet precisely because this economy-nature interrelationship is institutionalized, there exists an opening for alternative institutional configurations to take root.
+* By “institutions,” we mean patterns of social engagement that sometimes solidify into norms, rules, policies, and roles.
+* The dominant institutions that structure and control local, national, and even global economies—and thus define patterns of political and economic practice—treat nature as a raw material for production and radically simplify the complex living systems that define ecologies down to natural resources for consumption.
+* In doing so, these powerful institutions, especially those that provide the framework for contemporary markets, create and perpetuate an antagonism between nature and the economy, in which the protection of one causes damage to the other.
+* We see this visibility with pricing schemes and commodification of environmental resources, as well as with the centering of profit-making objectives (including accepting the expectation of high returns by financial investors) in the selection of environmental responses, solutions, and technologies.
+* institutions as “always-decomposable resources, rearranged and redeployed as a result of action itself.”
+* institutions result from creative and lived processes, always open to reinterpretation and reconfiguration.
+* We use biophilic literally: bio meaning life joins philia, which denotes a particular kind of love. Philia refers to a profound altruistic care and affection, based on mutuality, in which the well-being of self is indistinguishable from the well-being of the other. Thus, our use of biophilia expresses the aspiration for political and institutional solidarities built around a shared aliveness and a shared alliance with life.
+* Borrowing the words of anthropologist Anna Tsing, institutional transformation requires that we first “look around rather than ahead.”
+* After all, we create the economy through our work, and our economy relies on our aliveness as workers—as thinking, responding, and thriving beings that make the world through our actions.
+* the abstraction and simplification of labor processes, the disregard for economic equity and justice, and the representation of workers as solely economic and alienable from their natural environment.
+* we suggest three tangible features of biophilic institutions from which to inspire further action: shared materiality of economic and ecological processes; attention to economic equity and justice; and the cultivation of solidarity based on shared aliveness, with attention to both the resilience and precarity inherent in being alive.
+* The warming of our planet and the concentration of wealth are both products of an economic logic that reduces humans and nature to resources for production and investment.
+* The overlay between income inequality, poverty, and climate damage demonstrates that the institutions designed to structure our economies make no real distinction between the exploitation of persons and the exploitation of ecological systems—no political difference between the extraction of wealth from people and from the earth.
+* Because they increasingly tie economic pain and environmental damage together, institutions that enable economic actors to capitalize on the inequitable distribution of climate costs may offer the richest terrain for biophilic reimagining
+* In disaster recovery, damage to the climate and damage to workers come together through institutional structures that enable exploitation and amplify inequality. The work of disaster-clearing is done mostly by immigrant workers, many of whom are undocumented.
+* The companies that recruit them are part of a vertical contracting structure that concentrates wealth in the hands of extremely powerful corporations, all the while intensifying worker vulnerability at the bottom of the labor market.
+* This top-down structure is not unique to disaster clean-up and is reflective of the institutional trends that have undermined the position of labor in the building industry, where disaster restoration most aligns.
+* the industry’s business model directly exploits the regulatory structures and enforcement policies of the national immigration system.
+* Thus, the disaster-response business creates an institutional loop that yokes nature to the economy, in which migrants displaced by climate change work under exploitative and physically injurious conditions to repair the damage of climate disasters so that other communities, wealthier and with greater access to institutional resources, can rebuild.
+* Resilience Force advocates for policy change in the industry and prosecutes cases to hold employers accountable for wage theft, unsafe conditions, and human trafficking, but also acts as a worker-driven labor broker, directing resilience workers toward communities that have been underserved or abandoned by FEMA.
+* The core of their model links worker protections with worker training: the company ensures that their subcontractors adhere to basic wage, housing, and safety standards in exchange for Resilience Force’s help with skill development and safety training to transform jobs in disaster recovery from employment that is short-term, unpredictable, and dangerous to jobs that are skilled, steady, and safe.
+* For immigrants in disaster recovery, a pivot to green building would mean that, in rebuilding communities decimated by extreme weather events, they would be working to protect their communities of origin from similar climate damage at the same time.
+* the heart of biophilic institutional remaking is in our ability to learn with our environment, not dominate it or push against it. It requires we interpret across the divide between nature and the economy, but also recognize nature’s role in cocreating new institutional processes and inspiring a more hopeful vision of institutional change.
