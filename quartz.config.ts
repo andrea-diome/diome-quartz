@@ -17,7 +17,13 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "https://diome.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: [
+  	"Do Not Publish/**",
+  	"Maps/**",
+  	"Templates/**",
+  	"PDFs/**",
+  	".obsidian",
+	],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
