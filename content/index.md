@@ -1,3 +1,8 @@
+---
+title: "Welcome to Diome"
+draft: false
+---
+
 We’re standing at a crossroads in history. The planetary systems that sustain us are collapsing, exemplified by the climate emergency and growing global unrest. In front of us, there is a choice: continue on the road to self-destruction or redefine the role of humanity within nature. Changing direction means questioning the basic assumptions of our society, and reshaping its structures, institutions and tools. It means building a Regenerative Society, in which collective human actions work to create the ideal conditions for life to flourish.
 ## What is a Regenerative Society?
 A regenerative society goes beyond sustainability, which often focuses on minimizing harm or maintaining the status quo. Instead, it aims to actively restore and enhance the social and ecological systems upon which we depend. It's a vision of a world where human activities contribute positively to planetary ecosystems, where our technologies work in harmony with natural processes, and where our social structures promote well-being for all.
